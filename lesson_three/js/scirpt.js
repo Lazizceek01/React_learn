@@ -41,3 +41,13 @@ const karobka = {
 }
 
 console.log(karobka);
+
+
+
+var toliqismi = "Ali Chokanbayev";
+console.log(
+	toliqismi
+);
+
+
+// Type of operator
