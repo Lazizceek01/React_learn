@@ -31,3 +31,13 @@ const names = "Mirali"
 console.log(yosh);
 console.log(names);
 
+
+// Object bilan ishlangan 
+// for example 
+
+const karobka = {
+	ismi: "Banana",
+	soni: 10,
+}
+
+console.log(karobka);
