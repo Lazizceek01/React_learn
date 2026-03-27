@@ -23,3 +23,11 @@ var fullName = "Laziz Azizov";
 console.log(fullName);
 
 
+
+// Repeat ozgaruvchilar 
+let yosh = 33;
+const names = "Mirali"
+
+console.log(yosh);
+console.log(names);
+
